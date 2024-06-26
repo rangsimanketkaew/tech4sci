@@ -1,5 +1,5 @@
 # Rangsiman Ketkaew
-A PhD student | Portfolio: [rangsimanketkaew.github.io](https://rangsimanketkaew.github.io)
+A PhD student | Portfolio: [My official website](https://rangsimanketkaew.github.io)
 
 ## Summary
 A chemist who runs away from chemistry

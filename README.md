@@ -33,3 +33,6 @@ Job Title
 ## Education
 **Degree** | University Name | Date Graduated
 Courses, activities, or other details
+
+*This website is created by Jekyll, hosted on Github*
+

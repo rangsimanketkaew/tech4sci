@@ -36,3 +36,4 @@ Courses, activities, or other details
 
 *This website is created by Jekyll, hosted on Github*
 
+*Last updated: June 26, 2024*
